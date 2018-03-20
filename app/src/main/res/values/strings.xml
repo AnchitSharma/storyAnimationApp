@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">StoryAnimationApp</string>
+    <string name="title">Kachua aur Khargosh</string>
+    <string name="con_img1">turtle image</string>
+    <string name="rabbit_image">rabbit image</string>
+    <string name="hello_dear">Hello Dear</string>
+    <string name="dia_text">Do you want to quit ?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <array name="rabbit_subtitles">
+        <item>याद है न तुम्हे ...</item>
+        <item>आज सोमवर  है  ...</item>
+        <item>एक घंटे बाद ही दौड़ होनी है ...</item>
+    </array>
+
+    <string name="tl1">याद है भाई </string>
+    <string name="tl2"> मेरी तोह पूरी तयारी है .</string>
+    <string name="sys1">दौड़ शुरू हुई ..</string>
+    <string name="rl2"> कछुआ तोह बहुत पीछे है  ..</string>
+    <string name="r3"> थोड़ा आराम कर लू ...</string>
+    <string name="sa1">खरगोश को ठंडी हवा लगने से जपकी आ जाती है ।</string>
+    <string name="sa2">और कछुआ रेस जीत जाता है |</string>
+    <string name="rl3"> इस बार तोह धोका हो गया ...</string>
+    <string name="r4"> चलो एक बार और दौड़ते है ..</string>
+    <string name="rl4"> और देखते है की कौन जीतता है| ...</string>
+    <string name="ra1">ठीक है ना</string>
+    <string name="tl3"> चलो ठीक है । ...</string>
+    <string name="t4"> एक बार और दौड़ लिया जाये ..</string>
+    <string name="t5"> चलो अबकी बार शेर की गुफा तक दौड़ना है ...</string>
+    <string name="s2">दौड़ में इस बार खरगोश कोई गलती नहीं करता है.. </string>
+    <string name="s3">और रेस जीत जाता है </string>
+    <string name="s4">कछुआ खरगोश को नाचता देख  </string>
+    <string name="tl4"> यह तोह गड़बड़ हो गयी...</string>
+    <string name="t6">दो बार में से एक तुम जीते \nऔर एक बार मे ..</string>
+    <string name="r15">चलो एक बार और सही.. </string>
+    <string name="r16">यह फाइनल होगी</string>
+    <string name="r17">ठीक है ना </string>
+    <string name="r18"> अबकी बार पहाड़ी तक दौड़ते है...</string>
+    <string name="s6"> जिस रास्ते दे पहाड़ी तक जाना है ...</string>
+    <string name="s7">वहाँ नदी आ जाती है ...</string>
+    <string name="s8"> खरगोश नदी देख चकरा जाता है ...</string>
+    <string name="r19"> अब क्या करू </string>\
+    <string name="ra2">जल्दबाज़ी में ध्यान ही नहीं रहा की  </string>
+    <string name="ra3"> पहाड़ी पर जाने किये तोह नदी पर करनी पड़ती है .</string>
+    <string name="ta1">टाटा  ...</string>
+    <string name="s9">कछुआ दोबरा नदी पर पर करके  \n  खरगोश के पास पहुंचा और बोला</string>
+    <string name="ta2">देखो भाई </string>
+    <string name="ta3">तुम तेज़ दौड़ते हो ... \n और मे धीरे</string>
+    <string name="ta4">एक रेस तुम जीते... \n और एक मे </string>
+    <string name="ta5"> लेकिन अब यह रेस \n  हम दोनों ही जीतेंगे </string>
+    <string name="ta6">तुम एसा करो \n  मेरी पीठ पर सवार हो जाओ </string>
+    <string name="ta7">और मे तुम्हे नदी पर करा देता हूँ|</string>
+    <string name="s10"> दोनों एक साथ नदी पर करते है| ..\n  और दोनों एक साथ जीतते है</string>
+    <string name="s11">...  समाप्त ...</string>
+
+
+
+
+
+
+
+</resources>

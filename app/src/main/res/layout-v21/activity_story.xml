@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/container_a"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    android:orientation="vertical"
+    tools:context="com.example.user.storyanimationapp.activity.StoryActivity">
+
+
+
+    <FrameLayout
+        android:id="@+id/turtle_sub"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="70dp"
+        android:layout_gravity="center|top"
+        android:background="@drawable/pink">
+
+        <TextView
+            android:id="@+id/turtle_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:textColor="#FFFFFF"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:textSize="15dp"
+             />
+    </FrameLayout>
+
+
+    <FrameLayout
+        android:id="@+id/rabbit_sub"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center|top"
+        android:layout_marginTop="70dp"
+        android:background="@drawable/green_bubble"
+        android:orientation="horizontal"
+        android:padding="20dp">
+
+        <TextView
+            android:id="@+id/rabbit_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:textColor="#00ff00"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:textSize="15dp"
+             />
+
+    </FrameLayout>
+    <FrameLayout
+        android:id="@+id/system_sub"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center|top"
+        android:layout_marginTop="70dp"
+        android:background="@drawable/rect"
+        android:orientation="horizontal"
+        >
+
+        <TextView
+            android:id="@+id/system_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:textSize="17dp"
+            />
+
+    </FrameLayout>
+
+    <FrameLayout
+        android:id="@+id/framelayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ImageView
+            android:id="@+id/imageView9"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="?android:attr/selectableItemBackgroundBorderless"
+            android:layout_gravity="center|bottom"
+            android:layout_marginLeft="100dp"
+            android:contentDescription="@string/rabbit_image"
+            android:src="@drawable/small_rabbit" />
+
+        <ImageView
+            android:id="@+id/imageView8"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom|center"
+            android:background="?android:attr/selectableItemBackgroundBorderless"
+            android:layout_marginBottom="15dp"
+            android:layout_marginRight="100dp"
+            android:contentDescription="@string/con_img1"
+            android:src="@drawable/small_tur" />
+    </FrameLayout>
+
+
+</FrameLayout>
